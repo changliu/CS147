@@ -1,0 +1,7 @@
+body {
+     background-color: #b0c4de;}
+.container {
+	   height:200px;
+	   background: url("aboutMe.png") left bottom;
+	   background-repeat: no-repeat;
+}
